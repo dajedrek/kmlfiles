@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+        <name>Points</name>
+        <description>Examples of points</description>
+        <Placemark>
+            <name>Train station</name>
+			<description>This is train station.</description>
+            <Point>
+                <coordinates>18.249696493148804,54.60351594011358,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Shopping centre</name>
+			<description>This is shoping centre.</description>
+            <Point>
+                <coordinates>18.252335786819458,54.60454442291071,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Library</name>
+			<description>This is library.</description>
+            <Point>
+                <coordinates>18.255919218063354,54.605010494173136,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Restaurant</name>
+			<description>This is restaurant.</description>
+            <Point>
+                <coordinates>18.253333568572998,54.60507263660499,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Church</name>
+			<description>This is church.</description>
+            <Point>
+                <coordinates>18.262356519699097,54.605321205383774,0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
