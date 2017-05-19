@@ -8,8 +8,9 @@
 			<description>This is route to the University of Technology</description>
 			<LineString>
 				<coordinates>
-					18.249707221984863,54.603581192059956,100
-					18.627126216888428,54.37430843124119,100
+					<tessellate>0</tessellate>
+						18.249707221984863,54.603581192059956,100
+						18.627126216888428,54.37430843124119,100
 				</coordinates>
 			</LineString>
 		</Placemark>
