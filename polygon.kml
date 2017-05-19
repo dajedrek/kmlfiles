@@ -4,11 +4,17 @@
 		<name>Polygons</name>
 		<description>Example of Polygons</description>
 		<Placemark>
+            <name>TEST</name>
+            <Point>
+                <coordinates>18.614702224731445,54.37150547385002,0</coordinates>
+            </Point>
+        </Placemark>
+		<Placemark>
 			<name>new ETI building</name>
 			<description>This is new ETI building</description>
 			<Polygon>
-				<extrude>1</extrude>
-				<altitudeMode>relativeToGround</altitudeMode>
+<!--				<extrude>1</extrude>-->
+<!--				<altitudeMode>relativeToGround</altitudeMode>-->
 				<outerBoundaryIs>
 					<LinearRing>
 						<coordinates>
@@ -22,8 +28,8 @@
 			<name>old ETI building</name>
 			<description>This is old ETI building</description>
 			<Polygon>
-				<extrude>1</extrude>
-				<altitudeMode>relativeToGround</altitudeMode>
+<!--				<extrude>1</extrude>-->
+<!--				<altitudeMode>relativeToGround</altitudeMode>-->
 				<outerBoundaryIs>
 					<LinearRing>
 						<coordinates>
