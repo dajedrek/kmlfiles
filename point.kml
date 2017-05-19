@@ -38,5 +38,12 @@
 				<coordinates>18.262356519699097,54.605321205383774,0</coordinates>
 			</Point>
 		</Placemark>
+		<Placemark>
+			<name>School</name>
+			<description>This is school.</description>
+			<Point>
+				<coordinates>18.257946968078613,54.60597990530756,0</coordinates>
+			</Point>
+		</Placemark>
 	</Document>
 </kml>
