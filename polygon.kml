@@ -5,7 +5,7 @@
 		<description>Example of Polygons</description>
 		<Placemark>
 			<name>new ETI building</name>
-			<description>This is new ETI buildingy</description>
+			<description>This is new ETI building</description>
 			<Polygon>
 				<extrude>1</extrude>
 				<altitudeMode>relativeToGround</altitudeMode>
